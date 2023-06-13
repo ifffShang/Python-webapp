@@ -4,6 +4,7 @@ import time
 now = time.strftime("%b %d, %Y %H:&M:%S")
 print(now)
 print('second edition')
+print('third edition')
 
 while True:
     filepath = "todos.txt"
